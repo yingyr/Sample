@@ -4,6 +4,6 @@
 
 void main()
 {
-	int i =0;
-	string str("Sample !");
+	int i = 0;
+	string str("This is a sample .");
 }
